@@ -4,7 +4,9 @@ This readme file describes what was done as a project work for "Getting and Clea
 
 Assuming that data is collected from
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 under ./data
+
 and you know the task.
 
 Here what 'run_analysis.R' does:
