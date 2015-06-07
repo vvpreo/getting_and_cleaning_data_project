@@ -17,3 +17,5 @@ Here what 'run_analysis.R' does:
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
  
 You'll find final code book at CodeBook.md file.
+
+More details in the comments at the source code file.
